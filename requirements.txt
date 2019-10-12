@@ -1,0 +1,2 @@
+pypandoc==1.4
+-e /Users/jack/Desktop/Data Science/production-data-science
